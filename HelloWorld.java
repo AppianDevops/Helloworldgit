@@ -4,5 +4,8 @@ class HelloWorld
 	{
 		System.out.println("Hello World");
 		System.out.println("Added to Git");
+		System.out.println("Added to Commited");
+		System.out.println("Added to pushed to remote");
+		
 	}
 }
